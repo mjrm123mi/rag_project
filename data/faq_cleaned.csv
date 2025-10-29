@@ -1,0 +1,9 @@
+id,question,tokens,token_count,tokens_sorted
+1,Wie kann ich mein Passwort zurücksetzen?,"['wie', 'kann', 'ich', 'mein', 'passwort', 'zurücksetzen']",6,"['ich', 'kann', 'mein', 'passwort', 'wie', 'zurücksetzen']"
+2,Wo finde ich meine Bestellhistorie?,"['wo', 'finde', 'ich', 'meine', 'bestellhistorie']",5,"['bestellhistorie', 'finde', 'ich', 'meine', 'wo']"
+3,Wie kann ich meine Lieferadresse ändern?,"['wie', 'kann', 'ich', 'meine', 'lieferadresse', 'ändern']",6,"['ich', 'kann', 'lieferadresse', 'meine', 'wie', 'ändern']"
+4,Wie kontaktiere ich den Kundendienst?,"['wie', 'kontaktiere', 'ich', 'den', 'kundendienst']",5,"['den', 'ich', 'kontaktiere', 'kundendienst', 'wie']"
+5,Welche Zahlungsmethoden werden akzeptiert?,"['welche', 'zahlungsmethoden', 'werden', 'akzeptiert']",4,"['akzeptiert', 'welche', 'werden', 'zahlungsmethoden']"
+6,Wie kann ich meine Bestellung stornieren?,"['wie', 'kann', 'ich', 'meine', 'bestellung', 'stornieren']",6,"['bestellung', 'ich', 'kann', 'meine', 'stornieren', 'wie']"
+7,Wie lange dauert der Versand?,"['wie', 'lange', 'dauert', 'der', 'versand']",5,"['dauert', 'der', 'lange', 'versand', 'wie']"
+8,Kann ich Artikel nach der Bestellung noch ändern?,"['kann', 'ich', 'artikel', 'nach', 'der', 'bestellung', 'noch', 'ändern']",8,"['artikel', 'bestellung', 'der', 'ich', 'kann', 'nach', 'noch', 'ändern']"
